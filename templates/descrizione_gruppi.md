@@ -22,3 +22,10 @@ Gruppo ufficiale di "{nomeCorso}" (in comune a più corsi di laurea).
 - {risorsa1}
 - {risorsa2} \
 […]
+
+## Gruppo principale
+
+UniMi {nomeCDL} \
+Anno accademico {a.a.}
+
+🗣 Canale del network: @studenti_unimi

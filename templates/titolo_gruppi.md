@@ -1,9 +1,9 @@
-## DOCS 🍀📜
-Repo per eventuali documentazioni utili del network.
+# Titolo gruppi
+## Gruppo di un corso didattico
+{nomeCorso} - {nomeCDL}
 
-## Templates
-- [X] Titoli gruppi
-- [X] Descrizioni gruppi
+## Gruppo di un corso didattico in comune a più CDL
+{nomeCorso} - ({nomeCDL1}, .. {nomeCDLN})
 
-## Documentazione
-- [X] Lista amministratori e moderatori + prop. gruppi
+## Gruppo principale (anno accademico o altro)
+UniMi {nomeCDL} {a.a.}
