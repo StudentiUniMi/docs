@@ -1,4 +1,7 @@
-## DOCS 🍀📜
+# Documenti StudentiUniMi
+
+# Vecchio README
+
 Repo per eventuali documentazioni utili del network.
 
 ## Templates
