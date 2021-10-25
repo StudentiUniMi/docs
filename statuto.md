@@ -1,5 +1,7 @@
 # Statuto StudentiUniMi
 
+> __Lo statuto è attualmente in fase di revisione.__ Eventuali modifiche saranno pubblicate in questa pagina.
+
 ## SEZIONE I - Fondazione
 ### Art. 1
 1. __StudentiUniMi__ (da qui in poi "network") è un'organizzazione senza fini di lucro, apolitica, ovvero apartitica, e neutrale, la quale si pone l'obiettivo di offrire servizi telematici agli studenti dell'Università degli Studi di Milano.
